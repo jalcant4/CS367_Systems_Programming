@@ -1,5 +1,6 @@
 # CS367_Systems_Programming
 CS367 provides an introduction to the field of Systems Programming. 
+
 ~/P1/src/avan_sched.c - Linked list implementation of linked list in the C language: An example of data structures
 ~/P2/src/kiph.c - Models how the computer calculates the double data type through an integer  implementation through bit representation in the C language
 ~/P3/taskctl.c - 4 week project; 80+ hours; Models how the computer manages processes through concepts such as Concurrency, Fork, Wait, Signaling, Signal Handling in the C Language
